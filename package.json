@@ -1,0 +1,29 @@
+{
+  "name": "redeemerpdx",
+  "version": "1.0.0",
+  "devDependencies": {
+    "fontcustom": "0.0.3",
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-cache": "^0.2.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.3.3",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^0.6.1",
+    "gulp-jshint": "^1.7.1",
+    "gulp-livereload": "^2.1.0",
+    "gulp-minify-css": "^0.3.6",
+    "gulp-notify": "^1.4.0",
+    "gulp-plumber": "^0.6.5",
+    "gulp-rename": "^1.2.0",
+    "node-neat": "^1.3.0",
+    "gulp-sass": "^0.7.2",
+    "gulp-shell": "^0.2.8",
+    "gulp-uglify": "^0.3.1",
+    "gulp-uncss": "^0.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:redeemerpdx/redeemerpdx.com.git"
+  }
+}

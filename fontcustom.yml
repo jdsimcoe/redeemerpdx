@@ -1,0 +1,15 @@
+font_name: icons
+autowidth: false
+no_hash: true
+force: true
+debug: false
+quiet: false
+templates:
+  - _icons.scss
+  - fontcustom-preview.html
+input: assets/source/media/icons
+output:
+  css: assets/source/styles/core
+  fonts: assets/build/fonts
+  preview: assets/build/fonts
+

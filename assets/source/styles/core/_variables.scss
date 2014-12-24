@@ -1,0 +1,73 @@
+
+// ================================================
+// + VARIABLES
+// - all site variables go here
+// ================================================
+
+
+// Bootstrap Overrides
+// ------------------------------------------------
+
+// Ministry Colors
+$color-men: #3d3a3a;
+$color-women: #df90f0;
+$color-college: #06e3b2;
+$color-highschool: #99a2ab;
+$color-jrhigh: #48a4ff;
+$color-gradeschool: #fed666;
+$color-children: $color-gradeschool;
+$color-allchurch: #ff5656;
+
+// Global Colors
+$gray-darker: #373839;
+$brand-primary: #606d81;
+$brand-primary-text: #f4f4ea;
+$brand-secondary: #969696;
+$brand-accent: $color-allchurch;
+$text-color: $gray-darker;
+$white: #ffffff;
+$black: #111111;
+
+// Border-Radius
+$border-radius-base: 0;
+
+// Links
+$link-hover-decoration: none;
+
+// Typography
+$icon-font-path: '../../build/fonts/';
+$font-family-sans-serif: 'Trade Gothic';
+$font-family-serif: 'Mercury Text G4 A', 'Mercury Text G4 B';
+$font-family-condensed: 'Trade Gothic Condensed';
+$font-family-extended: 'Trade Gothic Extended';
+$headings-font-family: $font-family-extended;
+$font-family-base: $font-family-serif;
+$headings-font-weight: 700;
+$font-size-base: 20px;
+$heading-size-base: $font-size-base - 4;
+
+$font-size-h1:            floor(($heading-size-base * 2.75)) !default;
+$font-size-h2:            floor(($heading-size-base * 2.05)) !default;
+$font-size-h3:            ceil(($heading-size-base * 1.5)) !default;
+$font-size-h4:            ceil(($heading-size-base * 1.3)) !default;
+$font-size-h5:            ceil(($heading-size-base * 1.1)) !default;
+$font-size-h6:            ceil(($heading-size-base * 0.75)) !default;
+
+$line-height-base: 1.6;
+
+// Navbar
+$navbar-height: 60px;
+$navbar-margin-bottom: 0;
+$navbar-inverse-brand-color: white;
+$navbar-inverse-brand-hover-color: $brand-primary;
+$navbar-inverse-bg: lighten($gray-darker, 2%);
+$navbar-inverse-border: none;
+$navbar-border-radius: 0;
+$navbar-inverse-toggle-hover-bg: lighten($gray-darker, 2%);
+$navbar-inverse-toggle-border-color: lighten($gray-darker, 2%);
+
+//Alerts
+$alert-border-radius: 0;
+
+// Navs
+$nav-pills-border-radius: 0;
