@@ -18,7 +18,7 @@
 
 .header .inner {
   padding: 1.5rem 0;
-  background: transparentize($black, .5);
+  background: transparentize($black, .25);
 }
 
 .header a {
@@ -28,5 +28,15 @@
 .header .site-title {
   margin: 0;
   font-size: 9rem;
+  text-align: center;
+}
+
+.header .headline {
+  margin: 3rem 0;
+  color: $white;
+  font-family: $font-family-serif;
+  font-size: 4rem;
+  font-style: italic;
+  font-weight: 800;
   text-align: center;
 }
