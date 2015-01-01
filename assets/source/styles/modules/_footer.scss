@@ -24,11 +24,30 @@
 // Social
 // ------------------------------------------------
 
+.social {
+  margin: 0;
+  padding: 2rem 0;
+  font-size: 1.8rem;
+  text-align: center;
+  list-style: none;
+  background: lighten($brand-slate, 10%);
+}
 
+.social li {
+  display: inline;
+  list-style-type: none;
+}
+
+.social li a {
+  display: inline-block;
+  margin: 0 1rem;
+  color: $white;
+}
 
 // Footer
 // ------------------------------------------------
 
 .footer {
+  padding: 3rem 0;
   background: $brand-slate;
 }

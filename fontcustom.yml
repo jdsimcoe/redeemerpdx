@@ -1,5 +1,5 @@
 font_name: icons
-autowidth: false
+autowidth: true
 no_hash: true
 force: true
 debug: false
@@ -12,4 +12,3 @@ output:
   css: assets/source/styles/core
   fonts: assets/build/fonts
   preview: assets/build/fonts
-
