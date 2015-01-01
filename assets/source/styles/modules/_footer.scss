@@ -1,0 +1,34 @@
+
+// ================================================
+// FOOTER
+// - all footer styles go here
+// ================================================
+
+.icon-twitter {
+  @include redeemer-twitter;
+}
+
+.icon-facebook {
+  @include redeemer-facebook;
+}
+
+.icon-instagram {
+  @include redeemer-instagram;
+}
+
+.icon-email {
+  @include redeemer-email;
+}
+
+
+// Social
+// ------------------------------------------------
+
+
+
+// Footer
+// ------------------------------------------------
+
+.footer {
+  background: $brand-slate;
+}

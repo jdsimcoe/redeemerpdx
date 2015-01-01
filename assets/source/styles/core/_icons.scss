@@ -37,7 +37,11 @@
 
 /** Sass variables **/
 
+$redeemer-email: '\f104';
+
 $redeemer-facebook: '\f100';
+
+$redeemer-instagram: '\f105';
 
 $redeemer-logo-full: '\f101';
 
@@ -48,9 +52,21 @@ $redeemer-twitter: '\f103';
 
 /** Sass mixins **/
 
+@mixin redeemer-email() {
+  &:before {
+    content: $redeemer-email;
+  }
+}
+
 @mixin redeemer-facebook() {
   &:before {
     content: $redeemer-facebook;
+  }
+}
+
+@mixin redeemer-instagram() {
+  &:before {
+    content: $redeemer-instagram;
   }
 }
 
