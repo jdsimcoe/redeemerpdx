@@ -3,10 +3,11 @@
 .git
 .fontcustom-*
 .sublime-*
-bower_components/
-node_modules/
-scripts/coffee/*.*
-styles/sass/*.*
+bower_components
+bower_components/*.*
+node_modules
+node_modules/*.*
+assets/source/*.*
 config/*.*
 config.ru
 Gemfile

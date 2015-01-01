@@ -9,14 +9,42 @@
 
     {% if pages %}
       {% comment %} Show subpages if there are any available {% endcomment %}
-      <nav class="subpage-menu">
+      <ul class="subpage-menu">
+        <h3>
+          {% if parent %}
+            {{parent.title}}
+          {% else %}
+            {{title}}
+          {% endif %}
+        </h3>
         {% for subpage in pages %}
-          <a href="{{subpage.url}}">{{subpage.title}}</a>
+          <li {% if subpage.url == url %} class="active"{% endif %}>
+            <a href="{{subpage.url}}">{{subpage.title}}</a>
+          </li>
         {% endfor %}
-      </nav>
+        {% for subpage in parent.pages %}
+        <li {% if subpage.url == url %} class="active"{% endif %}>
+          <a href="{{subpage.url}}">{{subpage.title}}</a>
+        </li>
+        {% endfor %}
+      </ul>
     {% endif %}
 
-    {{body}}
+    {% if pages %}
+      <div class="wrapper">
+        {{body}}
+        {% if parent %}
+        <p><a href="{{parent.url}}">&larr; Back to {{parent.title}}</a></p>
+        {% endif %}
+      </div>
+    {% else %}
+      {{body}}
+      {% if parent %}
+      <p><a href="{{parent.url}}">&larr; Back to {{parent.title}}</a></p>
+      {% endif %}
+    {% endif %}
+
+
 
     {% if type == "post" %}
       {% comment %} Show tagsets if this is a post {% endcomment %}
@@ -40,10 +68,6 @@
         </article>
       {% endfor %}
 
-    {% endif %}
-
-    {% if parent %}
-      <p><a href="{{parent.url}}">&larr; Back to {{parent.title}}</a></p>
     {% endif %}
 
   </section><!-- /content -->
