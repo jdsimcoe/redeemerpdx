@@ -1,13 +1,17 @@
 <header class="header" {% for asset in assets %}{% if asset.meta['type'] == 'hero' %}style="background-image: url('{{asset.url}}');"{% endif %}{% endfor %}>
 
-  <h1 class="site-title"><a href="/">{{site.title}}</a></h1>
+<div class="inner">
+  <h1 class="site-title">
+    <a href="/">
+      <span class="icon icon-logo"></span>
+    </a>
+  </h1><!-- /site-title -->
 
   {% include 'includes/navigation' %}
 
   {% for data in meta %}
     <h1 class="headline">{{meta['headline']}}</h1>
   {% endfor %}
-
-
+</div><!-- /inner -->
 
 </header>

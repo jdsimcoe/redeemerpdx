@@ -4,6 +4,9 @@
 // - all header styles go here
 // ================================================
 
+.icon-logo {
+  @include redeemer-logo-full;
+}
 
 // Header
 // ------------------------------------------------
@@ -11,4 +14,19 @@
 .header {
   background-position: 50% 50%;
   background-size: cover;
+}
+
+.header .inner {
+  padding: 1.5rem 0;
+  background: transparentize($black, .5);
+}
+
+.header a {
+  color: $white;
+}
+
+.header .site-title {
+  margin: 0;
+  font-size: 9rem;
+  text-align: center;
 }

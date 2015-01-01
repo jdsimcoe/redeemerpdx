@@ -37,15 +37,14 @@
 
 /** Sass variables **/
 <% @glyphs.each do |name, value| %>
-$accf-<%= name.to_s %>: '\<%= value[:codepoint].to_s(16) %>';
+$redeemer-<%= name.to_s %>: '\<%= value[:codepoint].to_s(16) %>';
 <% end %>
 
 /** Sass mixins **/
 <% @glyphs.each do |name, value| %>
-@mixin accf-<%= name.to_s %>() {
+@mixin redeemer-<%= name.to_s %>() {
   &:before {
-    content: $accf-<%= name.to_s %>;
+    content: $redeemer-<%= name.to_s %>;
   }
 }
 <% end %>
-

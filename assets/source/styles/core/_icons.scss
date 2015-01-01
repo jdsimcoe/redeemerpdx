@@ -37,39 +37,38 @@
 
 /** Sass variables **/
 
-$accf-facebook: '\f100';
+$redeemer-facebook: '\f100';
 
-$accf-logo-full: '\f101';
+$redeemer-logo-full: '\f101';
 
-$accf-menu: '\f102';
+$redeemer-menu: '\f102';
 
-$accf-twitter: '\f103';
+$redeemer-twitter: '\f103';
 
 
 /** Sass mixins **/
 
-@mixin accf-facebook() {
+@mixin redeemer-facebook() {
   &:before {
-    content: $accf-facebook;
+    content: $redeemer-facebook;
   }
 }
 
-@mixin accf-logo-full() {
+@mixin redeemer-logo-full() {
   &:before {
-    content: $accf-logo-full;
+    content: $redeemer-logo-full;
   }
 }
 
-@mixin accf-menu() {
+@mixin redeemer-menu() {
   &:before {
-    content: $accf-menu;
+    content: $redeemer-menu;
   }
 }
 
-@mixin accf-twitter() {
+@mixin redeemer-twitter() {
   &:before {
-    content: $accf-twitter;
+    content: $redeemer-twitter;
   }
 }
-
 

@@ -33,55 +33,11 @@ body {
   zoom: 1;
 }
 
-a:hover {
+a {
   text-decoration: none;
   @include animate-simple(all);
 
   &:hover {
     text-decoration: none;
-  }
-}
-
-
-
-
-// Main Content Area
-// ------------------------------------------------
-
-.outer-wrap {
-  max-width: 1250px;
-  margin: 0 auto;
-}
-
-#main-content,
-#side-content {
-  padding-top: 3rem;
-}
-
-.main-content {
-  padding: 0;
-  background: $white;
-  box-shadow: 0 0 2rem rgba(0,0,0,.05);
-
-  @media (min-width: $screen-lg-min) {
-    border-radius: .5rem;
-  }
-
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    text-transform: uppercase;
-  }
-
-  h4 {
-    margin: 1rem 0 3rem 0;
-    text-align: center;
-  }
-
-  ol,
-  ul {
-    padding-left: 2rem;
   }
 }
