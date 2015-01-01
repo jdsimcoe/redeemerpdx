@@ -1,7 +1,7 @@
 .DS_Store
 .sass-cache
 .fontcustom-*
-.sublime-*
+*.sublime-*
 bower_components
 node_modules
 scripts/coffee/*.*
