@@ -3,8 +3,8 @@
 .git
 .fontcustom-*
 .sublime-*
-bower_components
-node_modules
+bower_components/
+node_modules/
 scripts/coffee/*.*
 styles/sass/*.*
 config/*.*
