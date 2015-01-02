@@ -4,11 +4,11 @@
 .gitignore
 .sass-cache
 .sublime-*
-assets/source/*.*
+assets/source/**
 bower.json
 bower_components
-bower_components/*.*
-config/*.*
+bower_components/**
+config/**
 config.ru
 fontcustom.yml
 Gemfile
@@ -16,6 +16,6 @@ Guardfile
 Gemfile.lock
 gulpfile.js
 node_modules
-node_modules/*.*
+node_modules/**
 package.json
 README.md
