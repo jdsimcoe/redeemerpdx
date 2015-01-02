@@ -7,7 +7,9 @@
 
   <section class="content">
 
-    {% if pages %}
+
+
+    {% if pages.size > 0 or parent.pages.size > 0 %}
       {% comment %} Show subpages if there are any available {% endcomment %}
       <ul class="subpage-menu">
         <h3>
@@ -30,7 +32,7 @@
       </ul>
     {% endif %}
 
-    {% if pages %}
+    {% if pages.size > 0 or parent.pages.size > 0 %}
       <div class="wrapper">
         {{body}}
         {% if parent %}
@@ -43,7 +45,6 @@
       <p><a href="{{parent.url}}">&larr; Back to {{parent.title}}</a></p>
       {% endif %}
     {% endif %}
-
 
 
     {% if type == "post" %}
