@@ -9,10 +9,11 @@
 
   {% include 'includes/navigation' %}
 
-  {% for data in meta %}
+  {% if meta.headline %}
     <hr>
     <h1 class="headline">{{meta['headline']}}</h1>
-  {% endfor %}
+  {% endif %}
+
 </div><!-- /inner -->
 
 </header>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include 'includes/head' %}
-<body>
+<body class="{{parent.title}}">
 
   {% include 'includes/header' %}
 
@@ -37,11 +37,66 @@
         <p><a href="{{parent.url}}">&larr; Back to {{parent.title}}</a></p>
         {% endif %}
       </div>
-    {% else %}
+    {% elsif pages.size == 0 %}
       {{body}}
       {% if parent %}
       <p><a href="{{parent.url}}">&larr; Back to {{parent.title}}</a></p>
       {% endif %}
+    {% endif %}
+
+    {% if type == "post" %}
+    {% comment %} Show tagsets if this is a post {% endcomment %}
+
+    <div class="sermon-detail">
+      <div class="main">
+        <h1>{{title}}</h1>
+        <div class="meta">
+          <span class="date">
+            {{date | date: "%B %-d, %Y"}}
+          </span>
+          <span> • </span>
+          <span class="speaker">
+            {{meta.speaker}}
+          </span>
+          <span> • </span>
+          <span class="reference">
+            {{meta.reference}}
+          </span>
+        </div>
+        <div class="description">
+          {{body}}
+        </div>
+      </div><!-- /main -->
+      <div class="sidebar">
+        {% for tagset in taxonomy %}
+        <strong>{{tagset.key}} ({{tagset | size}} tags)</strong>
+        <ul>
+          {% for tag in tagset %}
+          <li><a href="{{tag.url}}">{{tag.value}}</a></li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+      </div><!-- /sidebar -->
+    </div><!-- /sermon-detail -->
+
+    <div class="back">
+      <a href="{{parent.url}}">←Back to Sermons</a>
+    </div>
+
+    {% else %}
+    {% comment %} Loop through sermons and show an excerpt {% endcomment %}
+
+      {% for post in posts %}
+      <article class="sermon-preview">
+        {% if post.meta %}
+          <img class="sermon-artwork" src="/assets/{{post.meta['artwork']}}" alt="{{post.title}}">
+        {% endif %}
+        <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+        {{post.body | strip_html | truncatewords: 100}}
+        <p><a href="{{post.url}}">View Sermon</a>
+      </article>
+      {% endfor %}
+
     {% endif %}
 
   </section><!-- /content -->

@@ -71,16 +71,19 @@
 }
 
 .footer h3 {
-  color: lighten($brand-slate, 35%);
+  color: lighten($brand-slate, 40%);
+  font-size: 1rem;
   letter-spacing: $letter-spacing-default;
   text-transform: uppercase;
 }
 
 .footer address,
 .footer p {
-  color: darken($brand-slate, 15%);
-  font-size: 1.3rem;
+  color: darken($brand-slate, 25%);
+  font-family: $font-family-serif;
+  font-size: 1.4rem;
   font-style: normal;
+  font-weight: normal;
   line-height: 1.4;
 }
 
