@@ -70,6 +70,11 @@
   }
 }
 
+.footer a {
+  color: darken($brand-slate, 25%);
+  border-bottom: 2px solid darken($brand-slate, 10%);
+}
+
 .footer h3 {
   color: lighten($brand-slate, 40%);
   font-size: 1rem;
