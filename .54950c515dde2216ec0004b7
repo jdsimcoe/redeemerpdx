@@ -1,57 +1,57 @@
 ---
-time: 1420308992
+time: 1420345077
 inventory:
   /home/index.html:
-    md5: 82ff515f34f8c3359c5463ddbe59a30c
-    time: 1420308990
+    md5: 6dd7941d0d05e8f77d27bdd21d5e8b3d
+    time: 1420345071
   /index.html:
-    md5: 82ff515f34f8c3359c5463ddbe59a30c
-    time: 1420308990
+    md5: 6dd7941d0d05e8f77d27bdd21d5e8b3d
+    time: 1420345071
   /jesus/index.html:
-    md5: bc8d62914685d4db133e62a9ad48cec2
-    time: 1420307563
+    md5: a3a5c77a1b6806b31bb29eab26942f2d
+    time: 1420345072
   /about/index.html:
-    md5: 6dbdd2f5b28dd94f87810f4b5a7461b1
-    time: 1420307563
+    md5: b171d8a837b06cc9ad17c41204b1388f
+    time: 1420345072
   /teaching/index.html:
-    md5: 6665d508f933b666b018b1c3c2389459
-    time: 1420307563
+    md5: 23193e9bbbfc96115bd14e41e6639665
+    time: 1420345072
   /teaching/jesus-our-redeemer/index.html:
-    md5: b03ee8ab3f683bfa9ddcc4612e352413
-    time: 1420307563
+    md5: 8354105f3041666ff99e985a981b2b2d
+    time: 1420345072
   /connecting/index.html:
-    md5: 3082ec3c57bedee21b47b1c6e506b9bf
-    time: 1420307563
+    md5: 6547f846b53a518f7534d598b3abeafc
+    time: 1420345072
   /caring/index.html:
-    md5: fd5690a7b3cec01fd17c9190842b99d2
-    time: 1420307563
+    md5: a272bfc0e274146a11fc7a4f8654b6c9
+    time: 1420345072
   /giving/index.html:
-    md5: c3e13ce8033a4986421ecb43f672a7e1
-    time: 1420308990
+    md5: eac8bff1b27022f33e0afa384e3db244
+    time: 1420345072
   /about/beliefs/index.html:
-    md5: 2dbb53e94f2466eef47341583edb3c24
-    time: 1420307563
+    md5: 076ba04cb63b8ba2e00d932b21c0eceb
+    time: 1420345072
   /about/communitygroups/index.html:
-    md5: 0a839e44a336445b7f9a368c3a7ee11d
-    time: 1420307563
+    md5: 80fdc1b16991d0eeec980aea0bae61f2
+    time: 1420345073
   /about/location/index.html:
-    md5: 958f6ce8d2a01eda9eb170fea19d5ee4
-    time: 1420307564
+    md5: 4f51d7d49fde894d88a2270b71aa3cdb
+    time: 1420345073
   /about/leadership/index.html:
-    md5: 91c411b4b935877cb5f286573600ae97
-    time: 1420307564
+    md5: 80a9599c53d64368cb9486085eefd59e
+    time: 1420345073
   /about/contact-us/index.html:
-    md5: 8d29766d1912a277e35f0a5fca4d6dbf
-    time: 1420307564
+    md5: 9eccbd75656005c50fef20862a075c1a
+    time: 1420345073
   /caring/serving/index.html:
-    md5: 1f18d11a7bee31bd973c8945683c8c88
-    time: 1420307564
+    md5: 2b96ff5e0185ca0e509422cf19bd6553
+    time: 1420345073
   /caring/redemption-groups/index.html:
-    md5: f68fccf03653c897f27bd18d63d0ef89
-    time: 1420307564
+    md5: 555a27fa9fd4e95152bc767cbf6a7648
+    time: 1420345073
   /caring/prayer-team/index.html:
-    md5: 7b09059431f45b6be4b2fa709ee9b130
-    time: 1420307564
+    md5: ef74909f788b0ee4f8ff6f4298a998a6
+    time: 1420345073
   /CNAME:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
@@ -59,8 +59,8 @@ inventory:
     md5: 7746a22fcbd1a18edf224bf9d10ce7d6
     time: 1420308992
   /feed.xml:
-    md5: f6cdc7de0c0040697ab2532ddfccabed
-    time: 1420308992
+    md5: 0e906a26934b97991ffa1932e3220673
+    time: 1420345073
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
@@ -136,3 +136,6 @@ inventory:
   /assets/page-contact.jpg:
     md5: 48180cb4a63516e19b94fa10065eec54
     time: 1420307574
+  /assets/redeemer-fb-3.jpg:
+    md5: cdd4d444b8dd7323cfc22d42715fc9a0
+    time: 1420345074
