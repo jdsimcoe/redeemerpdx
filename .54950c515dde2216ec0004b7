@@ -1,5 +1,5 @@
 ---
-time: 1421085122
+time: 1421377489
 inventory:
   /home/index.html:
     md5: f859efcb43a2f843e8eac744a473c8c9
@@ -14,8 +14,8 @@ inventory:
     md5: 645f27cdb131ddcb71bf97fb1da8fd4a
     time: 1420833920
   /teaching/index.html:
-    md5: 3e725ad637ba3dc64055df1b4ec2012a
-    time: 1421085120
+    md5: 7defe3054890235bd75ba00d3490e624
+    time: 1421377487
   /teaching/jesus-our-redeemer/index.html:
     md5: 738921c3194d2f1da5b84cba237f0ddf
     time: 1420745490
@@ -26,8 +26,8 @@ inventory:
     md5: 5c24f45b4d3b52ec9d4e4339c9f06589
     time: 1420745490
   /giving/index.html:
-    md5: 37e74e5a059a801f2806db2c664cbd6d
-    time: 1420745490
+    md5: 077997b75e72a37a18a17b73073d51ed
+    time: 1421377487
   /about/beliefs/index.html:
     md5: 6869125f48a665e1a7f7bd4274d3d804
     time: 1420745491
@@ -56,11 +56,11 @@ inventory:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   /sitemap.xml:
-    md5: c36ed43576d607c3424dfb93713a6e03
-    time: 1421085122
+    md5: aaf08846910c7942cf808245ccb1bfff
+    time: 1421377488
   /feed.xml:
-    md5: 3a6d4e957ad6db7a41a6f78e358e9e26
-    time: 1421085122
+    md5: 6a9502af7ffadf1e1a6da828236d3b9e
+    time: 1421377488
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
