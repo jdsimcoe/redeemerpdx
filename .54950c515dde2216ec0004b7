@@ -1,5 +1,5 @@
 ---
-time: 1421686529
+time: 1421909376
 inventory:
   /home/index.html:
     md5: f859efcb43a2f843e8eac744a473c8c9
@@ -20,8 +20,8 @@ inventory:
     md5: 738921c3194d2f1da5b84cba237f0ddf
     time: 1420745490
   /connecting/index.html:
-    md5: e92441f0d9dcaf9582f1d72cc45c56d5
-    time: 1420745490
+    md5: de8fe85df0e3e2daa7f8ce77bb48a31e
+    time: 1421909374
   /caring/index.html:
     md5: 5c24f45b4d3b52ec9d4e4339c9f06589
     time: 1420745490
@@ -56,11 +56,11 @@ inventory:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   /sitemap.xml:
-    md5: 439b6ef023f1fa606e85ee25a7554ef4
-    time: 1421686529
+    md5: 1760b88db167cbd96172b03dac8fe44c
+    time: 1421909376
   /feed.xml:
-    md5: e1e8813d02de550d020322117fe7a3b2
-    time: 1421686529
+    md5: 185ba97993d265b3affaf7f890f87d38
+    time: 1421909376
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
