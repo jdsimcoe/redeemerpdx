@@ -1,0 +1,130 @@
+
+// ================================================
+// CONTENT
+// - all main content styles go here
+// ================================================
+
+
+// Content
+// ------------------------------------------------
+
+.content {
+  @include outer-container();
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.content a {
+  color: $brand-slate;
+
+  &:hover {
+    color: darken($brand-slate, 15%);
+  }
+}
+
+
+.content p,
+.content ul li,
+.content ol li,
+.content address {
+  font-size: 1.4rem;
+  line-height: 1.4;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  font-family: $font-family-serif;
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.content blockquote:first-child {
+  width: 95%;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+  color: lighten($brand-slate, 15%);
+  font-family: $font-family-serif;
+  font-style: italic;
+  text-align: center;
+
+  @include media($tablet) {
+    width: 50%;
+  }
+
+  p {
+    font-size: 1.6rem;
+  }
+
+  strong {
+    display: block;
+    margin-top: 1rem;
+    color: $brand-slate;
+    font-family: $font-family-sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: $letter-spacing-default;
+  }
+}
+
+
+// Sub-page Menu
+// ------------------------------------------------
+
+.subpage-menu {
+  @include span-columns(12);
+  text-align: left;
+  list-style: none;
+
+  @include media($tablet) {
+    @include span-columns(3);
+  }
+}
+
+.subpage-menu h3 {
+  margin-top: 1rem;
+  padding: .5rem;
+  color: $brand-slate;
+  font-family: $font-family-sans-serif;
+  font-size: 1.2rem;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing-default;
+}
+
+.subpage-menu li {
+  margin: .5rem 0;
+  display: block;
+  list-style-type: none;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.subpage-menu li a {
+  display: inline-block;
+  padding: .5rem;
+  color: lighten($brand-slate, 15%);
+  font-size: 1rem;
+
+  &:hover {
+    color: darken($brand-slate, 15%);
+  }
+}
+
+.subpage-menu li.active {
+  color: lighten($brand-slate, 5%);
+  background: lighten($brand-slate, 45%);
+}
+
+.wrapper {
+  @include span-columns(12);
+
+  @include media($tablet) {
+    @include span-columns(9);
+    @include omega();
+  }
+}

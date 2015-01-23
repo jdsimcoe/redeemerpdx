@@ -1,0 +1,47 @@
+
+// ================================================
+// HEADER
+// - all header styles go here
+// ================================================
+
+.icon-logo {
+  @include redeemer-logo-full;
+}
+
+// Header
+// ------------------------------------------------
+
+.header {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.header .inner {
+  padding: 1.5rem 0;
+  background: transparentize($black, .5);
+}
+
+.header a {
+  color: $white;
+}
+
+.header .site-title {
+  margin: 0;
+  font-size: 9rem;
+  text-align: center;
+}
+
+.header .headline {
+  margin: 3rem 0;
+  color: $white;
+  font-family: $font-family-serif;
+  font-size: 3.5rem;
+  font-style: italic;
+  font-weight: 800;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: .2rem solid $white;
+}

@@ -1,0 +1,47 @@
+// ================================================
+// MIXINS
+// - all sort of goodies to build the site
+// ================================================
+
+
+// Clearfix
+// ------------------------------------------------
+
+@mixin clearfix() {
+  &:before,
+  &:after {
+    content: " "; // 1
+    display: table; // 2
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+
+// Opacity
+// ------------------------------------------------
+
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  filter: unquote("alpha(opacity=#{$opacity * 100})");
+}
+
+
+// Responsive Images
+// ------------------------------------------------
+
+@mixin img-responsive($display: block) {
+  display: $display;
+  max-width: 100%; // Part 1: Set a maximum relative to the parent
+  height: auto; // Part 2: Scale the height according to the width, otherwise you get stretching
+}
+
+
+// Breakpoints
+// ------------------------------------------------
+
+$tablet: new-breakpoint(min-width 768px 12);
+$medium: new-breakpoint(min-width 992px 12);
+$large: new-breakpoint(min-width 1200px 12);
+$xlarge: new-breakpoint(min-width 1380px 12);

@@ -1,0 +1,114 @@
+
+// ================================================
+// FOOTER
+// - all footer styles go here
+// ================================================
+
+
+.icon-twitter {
+  @include redeemer-twitter;
+}
+
+.icon-facebook {
+  @include redeemer-facebook;
+}
+
+.icon-instagram {
+  @include redeemer-instagram;
+}
+
+.icon-email {
+  @include redeemer-email;
+}
+
+
+// Social
+// ------------------------------------------------
+
+.social {
+  margin: 0;
+  padding: 2rem 0;
+  font-size: 1.8rem;
+  text-align: center;
+  list-style: none;
+  background: lighten($brand-slate, 10%);
+}
+
+.social li {
+  display: inline;
+  list-style-type: none;
+}
+
+.social li a {
+  display: inline-block;
+  margin: 0 1rem;
+  color: lighten($brand-slate, 30%);
+
+  &:hover {
+    color: darken($brand-slate, 10%);
+  }
+}
+
+
+// Footer
+// ------------------------------------------------
+
+.footer {
+  @include clearfix();
+  padding: 3rem 0 0 0;
+  background: $brand-slate;
+}
+
+.footer .column {
+  @include span-columns(12);
+  @include omega();
+
+  margin-bottom: 2rem;
+  text-align: center;
+
+  @include media($tablet) {
+    @include span-columns(6);
+  }
+}
+
+.footer a {
+  color: darken($brand-slate, 25%);
+  border-bottom: 2px solid darken($brand-slate, 10%);
+}
+
+.footer h3 {
+  color: lighten($brand-slate, 40%);
+  font-size: 1rem;
+  letter-spacing: $letter-spacing-default;
+  text-transform: uppercase;
+}
+
+.footer address,
+.footer p {
+  color: darken($brand-slate, 25%);
+  font-family: $font-family-serif;
+  font-size: 1.4rem;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.4;
+}
+
+
+// Copyright
+// ------------------------------------------------
+
+.copyright {
+  padding: 1.5rem 0;
+  color: lighten($brand-slate, 25%);
+  font-weight: 500;
+  letter-spacing: $letter-spacing-default;
+  text-align: center;
+  text-transform: uppercase;
+  background: darken($brand-slate, 2%);
+}
+
+.copyright p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.4;
+}
