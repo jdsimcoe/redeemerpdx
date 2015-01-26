@@ -1,5 +1,5 @@
 ---
-time: 1422305786
+time: 1422313462
 inventory:
   /home/index.html:
     md5: 83a6f101421227538d6a77a8260a7497
@@ -20,8 +20,8 @@ inventory:
     md5: 197a205aaa431c13c6f4987960340ff1
     time: 1422305780
   /connecting/index.html:
-    md5: 1ed8c38e7c76197a95b0cb7146d48c44
-    time: 1422305780
+    md5: 960af17d8ad3e92ed9418f598b074bb7
+    time: 1422313460
   /caring/index.html:
     md5: 18d81c8e64c8137224bd95d3e80acf5f
     time: 1422305780
@@ -56,11 +56,11 @@ inventory:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   /sitemap.xml:
-    md5: 4be4355074a7029690dab75792f5cae9
-    time: 1422305781
+    md5: 99e78fab18a1502ce462042d05929214
+    time: 1422313461
   /feed.xml:
-    md5: 3d5896700ac4694310bed54c3570b2c7
-    time: 1422305781
+    md5: 3cd9e02a1421f23780aeb63bf15210eb
+    time: 1422313461
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
@@ -140,5 +140,5 @@ inventory:
     md5: 6539fa574e3ee14e49b06aa65b263c7d
     time: 1422305782
   /assets/build/styles/redeemer.min.css:
-    md5: e0a57ea113798bb4c170ef0157afac3f
-    time: 1422305782
+    md5: 4b9039f97845982dd91ee42dfc1d2a11
+    time: 1422313462
