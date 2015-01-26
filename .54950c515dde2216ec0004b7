@@ -1,66 +1,66 @@
 ---
-time: 1422135563
+time: 1422305786
 inventory:
   /home/index.html:
-    md5: f859efcb43a2f843e8eac744a473c8c9
-    time: 1420833951
+    md5: 83a6f101421227538d6a77a8260a7497
+    time: 1422305779
   /index.html:
-    md5: f859efcb43a2f843e8eac744a473c8c9
-    time: 1420833951
+    md5: 83a6f101421227538d6a77a8260a7497
+    time: 1422305779
   /jesus/index.html:
-    md5: 018b718e90556bd584023518d480ef4d
-    time: 1422033683
+    md5: 93f4722c5428628c635f716613a54d9b
+    time: 1422305779
   /about/index.html:
-    md5: 645f27cdb131ddcb71bf97fb1da8fd4a
-    time: 1420833920
+    md5: 3eccb15446aea1054b3a441fdc4e336e
+    time: 1422305779
   /teaching/index.html:
-    md5: bc4421f30b82ec6332bbba358f86b49a
-    time: 1422135561
+    md5: 8c885be02cf13518d0b7f3223dd51744
+    time: 1422305779
   /teaching/jesus-our-redeemer/index.html:
-    md5: 738921c3194d2f1da5b84cba237f0ddf
-    time: 1420745490
+    md5: 197a205aaa431c13c6f4987960340ff1
+    time: 1422305780
   /connecting/index.html:
-    md5: 2daac5fb78335abef81f23df34619f56
-    time: 1422033683
+    md5: 1ed8c38e7c76197a95b0cb7146d48c44
+    time: 1422305780
   /caring/index.html:
-    md5: 5c24f45b4d3b52ec9d4e4339c9f06589
-    time: 1420745490
+    md5: 18d81c8e64c8137224bd95d3e80acf5f
+    time: 1422305780
   /giving/index.html:
-    md5: 077997b75e72a37a18a17b73073d51ed
-    time: 1421377487
+    md5: 93bb6499c06b71511f75da071a050b0a
+    time: 1422305780
   /about/beliefs/index.html:
-    md5: 6869125f48a665e1a7f7bd4274d3d804
-    time: 1420745491
+    md5: fdef1eb74a6d8d69f8bd4f2f23175483
+    time: 1422305780
   /about/communitygroups/index.html:
-    md5: 15b23384c2b03033a8b64ec45bca81fc
-    time: 1420745491
+    md5: 5ab804a09795c8f34b008f806b772baa
+    time: 1422305780
   /about/location/index.html:
-    md5: 4d1384c279b777c0228621ae547ec265
-    time: 1420745491
+    md5: fd3fd6c71ff4de981856ed3ad7344c95
+    time: 1422305780
   /about/leadership/index.html:
-    md5: d0896f96b81e6ab992e94792e83a9ba0
-    time: 1420745491
+    md5: 565a01c19c8376de58ccbebd084e2765
+    time: 1422305780
   /about/contact-us/index.html:
-    md5: 1cc40b575c1888c43de40c85590627f9
-    time: 1420745492
+    md5: 2a8ec22a5ba5105fcf1d02039f78e041
+    time: 1422305781
   /caring/serving/index.html:
-    md5: 3588ed06cf7d5b5cb538c79933371b0b
-    time: 1420745492
+    md5: bed7be6050e75c5185fd15bc0a8f26b3
+    time: 1422305781
   /caring/redemption-groups/index.html:
-    md5: 9e8d75b19fe26d617654b601782ff1d1
-    time: 1420745492
+    md5: 64bcb286fcbc51e4e81ce88c0632e6d2
+    time: 1422305781
   /caring/prayer-team/index.html:
-    md5: 992c8fbe03fae2a4b53b9c98f030e45a
-    time: 1421439833
+    md5: 7d5868d084c1a4259b37a9c57083db24
+    time: 1422305781
   /CNAME:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   /sitemap.xml:
-    md5: 6ffc234622d006dbe17b555602754b67
-    time: 1422135562
+    md5: 4be4355074a7029690dab75792f5cae9
+    time: 1422305781
   /feed.xml:
-    md5: d47ea7224d47e47adb444ac22c0669ac
-    time: 1422135562
+    md5: 3d5896700ac4694310bed54c3570b2c7
+    time: 1422305781
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
@@ -134,92 +134,11 @@ inventory:
     md5: 0daeab4d98dbae27f1c690443704acd5
     time: 1420307569
   /assets/build/scripts/main.js:
-    md5: 02e0161889c5ee02731e9fa090c7206a
-    time: 1422033687
+    md5: 19f9ba4de74a50b83817c1e5c548317a
+    time: 1422305782
   /assets/build/scripts/main.min.js:
-    md5: 9cec7f200f2e3e889355b413dec51eb1
-    time: 1422033687
-  /assets/source/images/apple-touch-icon-precomposed.png:
-    md5: 4d1eb8987f78276275a32bdba6fed43b
-    time: 1422033687
-  /assets/source/images/favicon.ico:
-    md5: 0daeab4d98dbae27f1c690443704acd5
-    time: 1422033687
-  /assets/source/media/icons/_icons.scss:
-    md5: 1afb669b1a226f3001786e7f103c07a2
-    time: 1422033688
-  /assets/source/media/icons/email.svg:
-    md5: f0171a92fdbf9deec638d7aba85ef7bb
-    time: 1422033688
-  /assets/source/media/icons/facebook.svg:
-    md5: 5f35db9a8e8a23fa8ea240ca94340e18
-    time: 1422033688
-  /assets/source/media/icons/instagram.svg:
-    md5: e6a71468c492aa92802fb867e1d5e7e6
-    time: 1422033688
-  /assets/source/media/icons/logo-full.svg:
-    md5: db57c3b6684380b749464a176a9e2a20
-    time: 1422033688
-  /assets/source/media/icons/menu.svg:
-    md5: 4ae3a72448939cb2e6e26b745f1fb3ce
-    time: 1422033688
-  /assets/source/media/icons/twitter.svg:
-    md5: 82227280af36bd3a99ed6c6515ce2d0d
-    time: 1422033689
-  /assets/source/scripts/main.js:
-    md5: 02e0161889c5ee02731e9fa090c7206a
-    time: 1422033689
-  /assets/source/styles/_animated.scss:
-    md5: 592058349c4201e92af70482880efb1d
-    time: 1422033689
-  /assets/source/styles/_normalize.scss:
-    md5: 8ad6d15b09fe03028ff06c6b6372bdd3
-    time: 1422033689
-  /assets/source/styles/animations/_attention-seekers.scss:
-    md5: ddc1ee73a52d7a1c6c26cd7ab2ca1299
-    time: 1422033689
-  /assets/source/styles/animations/_bouncing.scss:
-    md5: ad6cff5d9e8d59c49186326d9badf2d2
-    time: 1422033690
-  /assets/source/styles/animations/_fading.scss:
-    md5: deedf9662adc76bfb2d3f44870a244b0
-    time: 1422033690
-  /assets/source/styles/animations/_flippers.scss:
-    md5: f83ea3de68a6d645fa59d60befd0907c
-    time: 1422033690
-  /assets/source/styles/animations/_simple.scss:
-    md5: f28f4bf340470486efdcdd1303768d31
-    time: 1422033690
-  /assets/source/styles/animations/_sliders.scss:
-    md5: aec38fa0bfec325b2108aeb22a8de38b
-    time: 1422033690
-  /assets/source/styles/core/_globals.scss:
-    md5: 33c558f76a998561767142b547de7607
-    time: 1422033691
-  /assets/source/styles/core/_icons.scss:
-    md5: b759dcf9678f91086a9e2c5748b65654
-    time: 1422033691
-  /assets/source/styles/core/_mixins.scss:
-    md5: 209f066b6d44da5292b88345f705c334
-    time: 1422033691
-  /assets/source/styles/core/_variables.scss:
-    md5: 1352f8b52a407db055dd514549315de8
-    time: 1422033691
-  /assets/source/styles/main.scss:
-    md5: ea11ff73a6b08a30e70bcd9e67ef3963
-    time: 1422033691
-  /assets/source/styles/modules/_content.scss:
-    md5: d196a09912f6096b7fd5f24397523405
-    time: 1422033691
-  /assets/source/styles/modules/_footer.scss:
-    md5: aca1827923887fef285531f39bea4b32
-    time: 1422033692
-  /assets/source/styles/modules/_header.scss:
-    md5: fb508ba51cc3b26928090e017fef386c
-    time: 1422033692
-  /assets/source/styles/modules/_maps.scss:
-    md5: 263782324d6b271dd7ba330a69f8c8f5
-    time: 1422033692
-  /assets/source/styles/modules/_navigation.scss:
-    md5: cf4fda6e40e3086abbab8b928a703543
-    time: 1422033692
+    md5: 6539fa574e3ee14e49b06aa65b263c7d
+    time: 1422305782
+  /assets/build/styles/redeemer.min.css:
+    md5: e0a57ea113798bb4c170ef0157afac3f
+    time: 1422305782
