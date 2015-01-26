@@ -17,7 +17,6 @@ var gulp = require('gulp'),
     imagemin = require('gulp-imagemin'),
     rename = require('gulp-rename'),
     concat = require('gulp-concat'),
-    uncss = require('gulp-uncss'),
     clean = require('gulp-clean'),
     plumber = require('gulp-plumber'),
     notify = require('gulp-notify'),
@@ -50,7 +49,7 @@ var build_path = 'assets/build';
 var bower_path = 'bower_components';
 var paths = {
   styles: [
-    source_path + '/styles/main.scss'
+    source_path + '/styles/redeemer.scss'
   ],
   scripts: [
     bower_path + '/jquery/dist/jquery.js',
