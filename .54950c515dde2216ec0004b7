@@ -1,66 +1,60 @@
 ---
-time: 1422313462
+time: 1422579069
 inventory:
   /home/index.html:
-    md5: 83a6f101421227538d6a77a8260a7497
-    time: 1422305779
+    md5: 8150392e22c710b7670563ea8d93f87c
+    time: 1422579065
   /index.html:
-    md5: 83a6f101421227538d6a77a8260a7497
-    time: 1422305779
+    md5: 8150392e22c710b7670563ea8d93f87c
+    time: 1422579065
   /jesus/index.html:
-    md5: 93f4722c5428628c635f716613a54d9b
-    time: 1422305779
+    md5: eb9472ae324126a32ed6f43e442ead56
+    time: 1422579065
   /about/index.html:
-    md5: 3eccb15446aea1054b3a441fdc4e336e
-    time: 1422305779
-  /teaching/index.html:
-    md5: 8c885be02cf13518d0b7f3223dd51744
-    time: 1422305779
-  /teaching/jesus-our-redeemer/index.html:
-    md5: 197a205aaa431c13c6f4987960340ff1
-    time: 1422305780
+    md5: 93d54c88427d3b9f91602d4578aeb469
+    time: 1422579065
   /connecting/index.html:
-    md5: 960af17d8ad3e92ed9418f598b074bb7
-    time: 1422313460
+    md5: 9383c4b68d7398c52557339a047acfec
+    time: 1422579065
   /caring/index.html:
-    md5: 18d81c8e64c8137224bd95d3e80acf5f
-    time: 1422305780
+    md5: 9c056b392172bfe8ec57c71fe443c752
+    time: 1422579065
   /giving/index.html:
-    md5: 93bb6499c06b71511f75da071a050b0a
-    time: 1422305780
+    md5: ddd34944b18de201536b4af7e09b9945
+    time: 1422579065
   /about/beliefs/index.html:
-    md5: fdef1eb74a6d8d69f8bd4f2f23175483
-    time: 1422305780
+    md5: 9db9c9f3ddacd97b1f7b6b1159e699b4
+    time: 1422579066
   /about/communitygroups/index.html:
-    md5: 5ab804a09795c8f34b008f806b772baa
-    time: 1422305780
+    md5: ff03cc9342ff29e8913b90475b899fbe
+    time: 1422579066
   /about/location/index.html:
-    md5: fd3fd6c71ff4de981856ed3ad7344c95
-    time: 1422305780
+    md5: 5a1bf58b998b259898069f644bc34375
+    time: 1422579066
   /about/leadership/index.html:
-    md5: 565a01c19c8376de58ccbebd084e2765
-    time: 1422305780
+    md5: d93c09e7076e3f4e81acafe83f65eb3a
+    time: 1422579066
   /about/contact-us/index.html:
-    md5: 2a8ec22a5ba5105fcf1d02039f78e041
-    time: 1422305781
+    md5: c31372866ebd42a9262ca67cc1e8f4f8
+    time: 1422579066
   /caring/serving/index.html:
-    md5: bed7be6050e75c5185fd15bc0a8f26b3
-    time: 1422305781
+    md5: 74765d9f882c59d1003df7a882b57baf
+    time: 1422579066
   /caring/redemption-groups/index.html:
-    md5: 64bcb286fcbc51e4e81ce88c0632e6d2
-    time: 1422305781
+    md5: a34c4ab666b1aba11ed51e2236372e1f
+    time: 1422579066
   /caring/prayer-team/index.html:
-    md5: 7d5868d084c1a4259b37a9c57083db24
-    time: 1422305781
+    md5: 3bc8572409525354968bc5548703b1c2
+    time: 1422579067
   /CNAME:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   /sitemap.xml:
-    md5: 99e78fab18a1502ce462042d05929214
-    time: 1422313461
+    md5: 3b632360cb8546d2e885e02cceb778c8
+    time: 1422579067
   /feed.xml:
-    md5: 3cd9e02a1421f23780aeb63bf15210eb
-    time: 1422313461
+    md5: a2f3efc39be0f9a25ccdf638a7aca5de
+    time: 1422579067
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
@@ -112,9 +106,6 @@ inventory:
   /assets/redeemer-fb-3.jpg:
     md5: cdd4d444b8dd7323cfc22d42715fc9a0
     time: 1420345074
-  /assets/assets/build/styles/main.min.css:
-    md5: 90af5b89e537792eb80199e3cfcfb83f
-    time: 1422033686
   /assets/build/fonts/icons.eot:
     md5: 9546ba2f0cf3264a54be037ca010108f
     time: 1420307568
