@@ -1,5 +1,5 @@
 ---
-time: 1424565583
+time: 1424566693
 inventory:
   /home/index.html:
     md5: 83a6f101421227538d6a77a8260a7497
@@ -11,8 +11,8 @@ inventory:
     md5: 93f4722c5428628c635f716613a54d9b
     time: 1422579161
   /about/index.html:
-    md5: dcb509a31bc057da0f201f3443dc3cd2
-    time: 1424565006
+    md5: 9b2228f7cfc11b8692c58f79cf75d3f1
+    time: 1424566691
   /teaching/index.html:
     md5: e830ee7b3d056502ca6562b9de4f361a
     time: 1424234725
@@ -32,23 +32,23 @@ inventory:
     md5: 93bb6499c06b71511f75da071a050b0a
     time: 1422579161
   /about/beliefs/index.html:
-    md5: dd9af483f85fe5d5325ec987b1b1fab8
-    time: 1424565008
+    md5: 8824f810a9b054d596b0675dd2aa0db6
+    time: 1424566691
   /about/communitygroups/index.html:
-    md5: b69707606e5bc461ee55d5c9aabf213a
-    time: 1424565008
+    md5: f80901e240354870877ded481bc479d9
+    time: 1424566691
   /about/location/index.html:
-    md5: fd7b0b216ef228b920161e20db82f248
-    time: 1424565008
-  /about/questions/index.html:
-    md5: 1100017cdd40d26d6ddaa23c2fdac648
-    time: 1424565582
+    md5: 1b859a9118105d758ae687c5eaf6ab02
+    time: 1424566692
   /about/leadership/index.html:
-    md5: 608e50f29047f708c124930c7462a0b5
-    time: 1424565009
+    md5: 56b6d33c542bb7ec1ff1f93b2c26fb94
+    time: 1424566692
   /about/contact-us/index.html:
-    md5: d0794de747e814643ddf54ed1027d35f
-    time: 1424565009
+    md5: d12c695d6d244504d87e960eeabd05d8
+    time: 1424566692
+  /about/feedback/index.html:
+    md5: 15d7a66eb5f91db17dc37b577f8ca09c
+    time: 1424566692
   /caring/serving/index.html:
     md5: bed7be6050e75c5185fd15bc0a8f26b3
     time: 1422579162
@@ -65,8 +65,8 @@ inventory:
     md5: 1a30d748735d3c7abbc4bfdc60ddb321
     time: 1424234726
   /feed.xml:
-    md5: d48b1bc5ffd2012d3f00c83d4b29eff4
-    time: 1424565583
+    md5: 10efa91387ccb10fce5678d8ba8e2da9
+    time: 1424566692
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
