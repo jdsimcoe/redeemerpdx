@@ -1,5 +1,5 @@
 ---
-time: 1424566693
+time: 1424566800
 inventory:
   /home/index.html:
     md5: 83a6f101421227538d6a77a8260a7497
@@ -47,8 +47,8 @@ inventory:
     md5: d12c695d6d244504d87e960eeabd05d8
     time: 1424566692
   /about/feedback/index.html:
-    md5: 15d7a66eb5f91db17dc37b577f8ca09c
-    time: 1424566692
+    md5: fc44c34de6f54d8be2682112a24d5450
+    time: 1424566799
   /caring/serving/index.html:
     md5: bed7be6050e75c5185fd15bc0a8f26b3
     time: 1422579162
@@ -65,8 +65,8 @@ inventory:
     md5: 1a30d748735d3c7abbc4bfdc60ddb321
     time: 1424234726
   /feed.xml:
-    md5: 10efa91387ccb10fce5678d8ba8e2da9
-    time: 1424566692
+    md5: 1ed15a48458fc7d79dc4c9c889038c97
+    time: 1424566799
   /assets/page-sermons.jpg:
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
@@ -148,3 +148,6 @@ inventory:
   /assets/what-love-does.jpg:
     md5: f1ff347585ad2f3f95fe96edd649bdd3
     time: 1424234727
+  /assets/54a79cbc5dde22fac000181e.jpg:
+    md5: 48180cb4a63516e19b94fa10065eec54
+    time: 1424566800
