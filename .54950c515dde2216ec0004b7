@@ -1,12 +1,12 @@
 ---
-time: 1431357420
+time: 1431376312
 inventory:
   "/home/index.html":
-    md5: 9c7c5f78e4b6bb56f33b3569d1c78df1
-    time: 1430712989
+    md5: 0f1e559546f5e3c2d52fbf9a2702acea
+    time: 1431376311
   "/index.html":
-    md5: 9c7c5f78e4b6bb56f33b3569d1c78df1
-    time: 1430712989
+    md5: 0f1e559546f5e3c2d52fbf9a2702acea
+    time: 1431376311
   "/jesus/index.html":
     md5: 93f4722c5428628c635f716613a54d9b
     time: 1422579161
@@ -62,11 +62,11 @@ inventory:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   "/sitemap.xml":
-    md5: 8a11d96311865ccd12f8213342ce33b0
-    time: 1431357420
+    md5: 0757b45b60238dbca45f964cbb6f10dd
+    time: 1431376312
   "/feed.xml":
-    md5: 5ef758bb275853ad5113dd124ac723f0
-    time: 1431357420
+    md5: 1141fd6f7e8b0b97a6256679a4d36a90
+    time: 1431376312
   "/assets/page-sermons.jpg":
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
