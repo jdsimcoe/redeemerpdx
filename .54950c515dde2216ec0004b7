@@ -1,5 +1,5 @@
 ---
-time: 1438575468
+time: 1438669921
 inventory:
   "/home/index.html":
     md5: aaa0603769edc3a31000958a66a9fd0b
@@ -53,8 +53,8 @@ inventory:
     md5: 84b679afcab096d54a51cc338e43ef0c
     time: 1431748679
   "/caring/redemption-groups/index.html":
-    md5: 8151c3bd007ef93c78bf51d00cbc8094
-    time: 1432665823
+    md5: 161cf3f1123b5664a2c92f67bd1b2f8f
+    time: 1438669920
   "/caring/prayer-team/index.html":
     md5: 7d5868d084c1a4259b37a9c57083db24
     time: 1422579162
@@ -65,8 +65,8 @@ inventory:
     md5: e79b8bafacf68771e501466448ad81ec
     time: 1438575466
   "/feed.xml":
-    md5: 75e0eba7d9228a7f3033e766df7b6fa1
-    time: 1438575466
+    md5: 33b59a1eb946e8e4c17525d8d40cb3f7
+    time: 1438669920
   "/assets/page-sermons.jpg":
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
