@@ -1,5 +1,5 @@
 ---
-time: 1463434743
+time: 1463445276
 inventory:
   "/home/index.html":
     md5: aaa0603769edc3a31000958a66a9fd0b
@@ -14,8 +14,8 @@ inventory:
     md5: f04656b335c799320c82c3ef39bc3cf3
     time: 1431755799
   "/teaching/index.html":
-    md5: 2521036e342207324ec05e7b0195b7cc
-    time: 1463434740
+    md5: e2961ea0e06f0655224ddd5c098eabcc
+    time: 1463445274
   "/teaching/love-or-nothing/index.html":
     md5: a377ef12f705d49d6673c904d7fd7b6d
     time: 1424234725
@@ -62,11 +62,11 @@ inventory:
     md5: a61893bad661e340cd89ce59368b552c
     time: 1420307564
   "/sitemap.xml":
-    md5: 56b6c1e0e0f7216a1011a598aa80d635
-    time: 1463434742
+    md5: 86013e1e0f33ab3c004869d3efb69f96
+    time: 1463445274
   "/feed.xml":
-    md5: 1b70527e014af1edbccb98137552f713
-    time: 1463434742
+    md5: 64c3013ff5fe5535f577314120f1c45c
+    time: 1463445274
   "/assets/page-sermons.jpg":
     md5: c95df9a06d7adaf21e1e6e7cd0ca71be
     time: 1420307566
